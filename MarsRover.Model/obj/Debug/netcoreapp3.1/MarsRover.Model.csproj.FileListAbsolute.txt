@@ -1,0 +1,9 @@
+C:\Users\miray\source\repos\MarsRoverCase\MarsRover.Model\bin\Debug\netcoreapp3.1\MarsRover.Model.deps.json
+C:\Users\miray\source\repos\MarsRoverCase\MarsRover.Model\bin\Debug\netcoreapp3.1\MarsRover.Model.dll
+C:\Users\miray\source\repos\MarsRoverCase\MarsRover.Model\bin\Debug\netcoreapp3.1\MarsRover.Model.pdb
+C:\Users\miray\source\repos\MarsRoverCase\MarsRover.Model\obj\Debug\netcoreapp3.1\MarsRover.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miray\source\repos\MarsRoverCase\MarsRover.Model\obj\Debug\netcoreapp3.1\MarsRover.Model.AssemblyInfoInputs.cache
+C:\Users\miray\source\repos\MarsRoverCase\MarsRover.Model\obj\Debug\netcoreapp3.1\MarsRover.Model.AssemblyInfo.cs
+C:\Users\miray\source\repos\MarsRoverCase\MarsRover.Model\obj\Debug\netcoreapp3.1\MarsRover.Model.csproj.CoreCompileInputs.cache
+C:\Users\miray\source\repos\MarsRoverCase\MarsRover.Model\obj\Debug\netcoreapp3.1\MarsRover.Model.dll
+C:\Users\miray\source\repos\MarsRoverCase\MarsRover.Model\obj\Debug\netcoreapp3.1\MarsRover.Model.pdb
